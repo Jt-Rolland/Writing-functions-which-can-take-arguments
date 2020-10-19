@@ -1,1 +1,2 @@
-# Writing-functions-which-can-take-arguments
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
